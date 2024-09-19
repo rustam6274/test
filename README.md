@@ -3,4 +3,4 @@
 #### Веб-сервер: Apache
 #### Язык: PHP версии 7.4
 #### БД: MySQL
-#### http://d93730h7.beget.tech/
+#### Демонстрация: http://d93730h7.beget.tech/
